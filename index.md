@@ -2,13 +2,12 @@
 ## Akbar Baghbani
 ### Ellisys, switzerland
 
-- Bulleted DSP
+- DSP
+- FPGA
+- wireless communication (ASK/FSK, GFSK, D-QPSK, OFDM, QAM, lora,...)
+- high-speed protocol
 - Embedded programming
-- MIDI
-- List
 
-1. Wireless communication
-2. List
 
 **Coding:** python, c/c++/c#, vhdl/verilog
 
