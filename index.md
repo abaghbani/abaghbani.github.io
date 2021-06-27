@@ -1,7 +1,6 @@
 # Welcome to my personal website
-## Akbar Baghbani ![Image](akbar.jpg)
-### Route de chancy, 15A, petit-lancy 1213, switzerland
-### mobile +41-78-232 8487
+## Akbar Baghbani
+### Ellisys, switzerland
 
 - Bulleted DSP
 - Embedded programming
@@ -11,6 +10,6 @@
 1. Wireless communication
 2. List
 
-**French language** and _English_ and _Farsi_ and `Code` text
+**Coding:** python, c/c++/c#, vhdl/verilog
 
-my job: [www.ellisys.com](www.ellisys.com)
+my job: [www.ellisys.com](http://www.ellisys.com)
