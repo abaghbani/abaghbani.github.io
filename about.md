@@ -4,18 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Welcome!
+# Welcome to my personal page
+## Akbar Baghbani
+
 
 I use this blog to keep track of my personal projects.
 
-These can be FPGA reverse engineering projects, playing LEDs, figuring out how something
-works under the hood, or sometimes just instructions on how to install a piece of
-software.
+- DSP
+- FPGA
+- wireless communication (ASK/FSK, GFSK, D-QPSK, OFDM, QAM, lora,...)
+- high-speed protocol
+- Embedded programming
 
-My understanding of things goes up a lot when I write about them, so some posts are primarily
-to educate myself about a topic: don't assume that I know what I'm talking about!
+
+**Coding:** python, c/c++/c#, vhdl/verilog
+
+my job @ [www.ellisys.com](http://www.ellisys.com)
 
 I can be reached by direct message through Twitter or you can file issues or questions about my
 projects through GitHub.
 
-Akbar  to test
+Akbar
