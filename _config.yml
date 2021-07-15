@@ -6,17 +6,18 @@ description: > # this means to ignore newlines until "show_excerpts:"
   some small project is fun for me and maybe can help other to understand some tecknology better.
   my interest field is DSP, FPGA, SDR and modem for FSK, QPSK, GFSK, LoRa, OFDM and ...
 
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+
 minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
   social_links:
     twitter: abaghbani
-    github:  abaghbani
+    github: abaghbani
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -52,6 +53,7 @@ minima:
 # - about.md
 
 # Build settings
+markdown: kramdown
 theme: minima
 
 plugins:
