@@ -52,6 +52,7 @@ minima:
 
 header_pages:
   - about.md
+  - physics.md
 
 # Build settings
 theme: minima
