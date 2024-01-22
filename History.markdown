@@ -5,6 +5,11 @@
   * Forward port v2.5.1 release (#399)
   * Docs: remove Google+ (#373)
   * Update README section on adding favicons to site (#438)
+  * Fix custom-styles.scss name in README (#610)
+  * Improve the msg to enable disqus in README (#627)
+  * Make docs consistent with code (#657)
+  * Highlight that the base branch is v3 (#719)
+  * Improve documentation for config options (#760)
 
 ### Minor Enhancements
 
@@ -28,12 +33,19 @@
   * Improve the readablility of blockquotes (#481)
   * Extract more color rules into skins (#452)
   * Introduce &#34;Dark Minima&#34; skin (#335)
+  * Reduce spacing in the three largest headers (#538)
+  * Add `auto` skin which honors the `prefers-color-scheme` media query (#634)
+  * Add google scholar. (#673)
+  * Add `x` social icon (#756)
 
 ### Major Enhancements
 
   * Allow skins to be defined and customized easily (#336)
   * Drop support for scalar &#39;author&#39; configuration (#384)
   * Place skins in `minima/skins` to clarify purpose (#479)
+  * Add adaptive skin: `solarized` (#594)
+  * Generate social iconsheet during build (#686)
+  * Rename `default` layout to `base` (#690)
 
 ### Bug Fixes
 
@@ -49,6 +61,13 @@
   * Improve readability of post titles with diacritics (#449)
   * Fix a bug of incorrect parsing of page.modified_date (#455)
   * Specify the font size of the root element (#485)
+  * Fix script used for Google Analytics (#596)
+  * Open social links in new tabs (#625)
+  * change base-font-family sequence (#654)
+  * Fix responsiveness of social SVG sprites (#677)
+  * Improve &#34;Subscribe&#34; link in footer (#698)
+  * Fix deprecation warnings from Dart Sass (#700)
+  * Fix reference to base layout in `404.html` (#713)
 
 ### Development Fixes
 
@@ -57,6 +76,11 @@
   * [chore] Normalize Travis CI builds (#480)
   * chore(deps): bump Ruby version (#510)
   * Conditionally load GFM-parser gem in CI builds (#535)
+  * Improve CI workflow configuration (#609)
+  * Migrate from TravisCI to GitHub Actions (#633)
+  * Build and deploy demo site via GH Action workflow (#636)
+  * Improve readability of config file (#703)
+  * Trigger demo-site build manually (#714)
 
 ## 2.5.1
 
