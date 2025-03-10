@@ -6,8 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: > # this means to ignore newlines until "show_excerpts:"
-  some small project is fun for me and maybe can help other to understand some tecknology better.
-  my interest field is DSP, FPGA, SDR and modem for FSK, QPSK, GFSK, LoRa, OFDM and ...
+  I enjoy working on small projects that are both fun and helpful for others in understanding technology better. My areas of interest include DSP, FPGA, SDR, and modem technologies such as FSK, QPSK, GFSK, LoRa, OFDM, and more.
 
 # Build settings
 
