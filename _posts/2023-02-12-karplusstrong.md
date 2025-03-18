@@ -37,4 +37,4 @@ def KarplusStrong(nSamples, sampleRate, frequency):
 
 KS algoritm is like this:
 
-$$Y_t = \frac{1}{2}*(Y_{t-p-1} - Y_{t-p})
+$$Y_t = \frac{1}{2}*(Y_{t-p-1} - Y_{t-p})$$
